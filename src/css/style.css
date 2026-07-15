@@ -2,3 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+*{
+    font-family: "Roboto", sans-serif;
+}
+
+.mi_titulo_hero{
+    font-family: "Elms Sans", sans-serif;
+}
